@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c614edc4-11e4-4c8f-b633-ba3a7d8c6747" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MadLib.java" afterDir="false" />
+    <list default="true" id="c614edc4-11e4-4c8f-b633-ba3a7d8c6747" name="Changes" comment="Minimum viable product of MadLib">
+      <change beforePath="$PROJECT_DIR$/src/MadLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MadLib.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699460439480</updated>
     </task>
+    <task id="LOCAL-00001" summary="Minimum viable product of MadLib">
+      <option name="closed" value="true" />
+      <created>1699477788821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699477788821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Minimum viable product of MadLib" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minimum viable product of MadLib" />
   </component>
 </project>
