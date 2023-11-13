@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c614edc4-11e4-4c8f-b633-ba3a7d8c6747" name="Changes" comment="Final loops hw">
+    <list default="true" id="c614edc4-11e4-4c8f-b633-ba3a7d8c6747" name="Changes" comment="Initial conditionals commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditionals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "leahli12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fd76de16-7fef-4262-a9f0-f96a488798b3" />
+        <option name="url" value="https://github.com/leahli12/Homework.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -79,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699764410592</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial conditionals commit">
+      <option name="closed" value="true" />
+      <created>1699915917341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699915917341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -87,6 +110,7 @@
     <MESSAGE value="Added bonus story with conditional statements" />
     <MESSAGE value="Initial commit of loops hw" />
     <MESSAGE value="Final loops hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final loops hw" />
+    <MESSAGE value="Initial conditionals commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial conditionals commit" />
   </component>
 </project>
