@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c614edc4-11e4-4c8f-b633-ba3a7d8c6747" name="Changes" comment="Initial commit of loops hw">
-      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+    <list default="true" id="c614edc4-11e4-4c8f-b633-ba3a7d8c6747" name="Changes" comment="Final loops hw">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +71,22 @@
       <option name="project" value="LOCAL" />
       <updated>1699763913766</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final loops hw">
+      <option name="closed" value="true" />
+      <created>1699764410592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699764410592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Minimum viable product of MadLib" />
     <MESSAGE value="Added bonus story with conditional statements" />
     <MESSAGE value="Initial commit of loops hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of loops hw" />
+    <MESSAGE value="Final loops hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final loops hw" />
   </component>
 </project>
